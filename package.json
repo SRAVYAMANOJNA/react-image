@@ -1,0 +1,27 @@
+{
+  "name": "image-react",
+  "version": "0.0.1",
+  "description": "A simple image tag with lot of functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramveeraghanta/react-image.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "image",
+    "imagenotfound",
+    "image-error"
+  ],
+  "author": "sriram veeraghanta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sriramveeraghanta/react-image/issues"
+  },
+  "homepage": "https://github.com/sriramveeraghanta/react-image#readme"
+}
